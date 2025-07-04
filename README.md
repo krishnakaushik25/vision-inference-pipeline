@@ -76,8 +76,8 @@ project-root/
 ### Option 1: Use Docker (Production-Ready)
 
 ```bash
-git clone https://github.com/your-org/visionflow.git
-cd visionflow
+git clone https://github.com/your-org/vision-inference-pipeline.git
+cd vision-inference-pipeline
 cp .env.example .env   # update settings
 docker-compose up --build
 ```
@@ -90,8 +90,8 @@ docker-compose up --build
 ### Option 2: Local Dev Setup (with Poetry)
 
 ```bash
-git clone https://github.com/your-org/visionflow.git
-cd visionflow
+git clone https://github.com/your-org/vision-inference-pipeline.git
+cd vision-inference-pipeline
 poetry install
 cp .env.example .env
 poetry shell
