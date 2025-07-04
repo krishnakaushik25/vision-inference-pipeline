@@ -128,8 +128,8 @@ http://localhost:8000/docs
 ```
 
 Typical endpoints:
-- `POST /predict/classification`
-- `POST /predict/detection`
+- `POST /predict/classify`
+- `POST /predict/detect`
 - `GET /health`
 
 ---
