@@ -1,7 +1,6 @@
 # 🧠 VisionFlow: Modular CV Inference API
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-009688.svg)
 ![Docker Support](https://img.shields.io/badge/Docker-Ready-2496ED.svg)
 
@@ -171,12 +170,3 @@ Use the provided Dockerfile and `docker-compose.yml` for reproducible, container
 
 ---
 
-## 🤝 Development & Contribution
-
-Pull requests welcome! Please follow standard branching and PR review flow. Add unit tests and update docs for new features.
-
----
-
-## 📄 License
-
-Distributed under the [MIT License](./LICENSE).
